@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Jannatul Ferdousi Babli 👋</h1>
-<h3 align="center">CSE Student | Cybersecurity & Machine Learning Enthusiast</h3>
+<h3 align="center">CSE Student | Aspiring Cybersecurity Researcher</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jannatul-infosec&label=Profile%20views&color=0e75b6&style=flat" alt="jannatul-infosec" />
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security%20%26%20ML-blueviolet?style=flat&logo=target" alt="Focus" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jannatul-infosec&theme=flat&column=7" alt="jannatul-infosec" /></a>
-</p>
 
 ---
 
@@ -48,7 +44,7 @@
 <a href="https://www.linkedin.com/in/jannatul-ferdousi-babli-4b18b4278/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="mailto:your-email@example.com" target="blank">
+<a href="mailto:your-ferdousbabli207@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="25" />
 </a>
 </p>
