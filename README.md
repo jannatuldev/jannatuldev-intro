@@ -9,10 +9,11 @@
 ---
 
 ### 🎓 About Me
-- 🔭 **Research Focus:** Building an **Intrusion Detection System (IDS)** using Machine Learning to identify network threats in real-time.
-- 🎓 **Current Status:** Final year CSE student with 8 months to graduation.
-- 🚨 **Interests:** ML-based Threat Detection, SOC Workflows, and Network Forensics.
-- 🌱 **Currently Mastering:** Feature selection & preprocessing for high-dimensional network datasets and defensive security fundamentals.
+- 🔭 I'm a final-year CSE student exploring both **Offensive and Defensive security** to understand how systems work from all angles.
+- 🎯 **Goal:** To secure an internship where I can work on real-world projects and grow the skills I’ve built during my studies.
+- 🛡️ **Current Focus:** While I am interested in SOC workflows, I am currently more focused on **Offensive Security** and mastering attacker methodologies.
+- 🧪 **Hands-on Practice:** Actively mastering **Burp Suite, Wireshark, and Nmap** through labs and practical exercises.
+- 💻 **Project:** Developing an **Intrusion Detection System (IDS)** using Machine Learning for my final year thesis.
 
 ---
 
