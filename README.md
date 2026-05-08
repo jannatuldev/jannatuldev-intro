@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jannatul Ferdousi Babli 👋</h1>
+<h1 align="center">Hello, I'm Jannatul Ferdousi Babli</h1>
 
 - I'm a final-year CSE student at **Bangladesh University**.
 - Having fun exploring ideas around current security solutions and research.
